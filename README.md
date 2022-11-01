@@ -15,3 +15,6 @@ Refactor this program by using `Factory Method` pattern so it can add layer of a
 Home Loan Payment Amout: 50.5 | Home Loan Payment Frequency: Fortnightly
 Personal Loan Payment Amout: 100.1 | Personal Loan Payment Frequency: Monthly
 ```
+
+#### **Illustration:**  
+![Diagram](ClassDiagram.png)  
